@@ -7,6 +7,7 @@ public class JavaDemo {
 			System.out.println("发送消息："+str);
 		};
 		msg.send("王明洋");
+		System.out.println("test git in sts");
 	}
 
 }
